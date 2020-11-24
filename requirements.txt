@@ -57,3 +57,4 @@ widgetsnbextension==3.5.1
 wincertstore==0.2
 zipp==3.4.0
 gunicorn
+pip install ipython
